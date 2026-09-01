@@ -2,3 +2,33 @@
 2026-06-30 12:30:30.986: [INFO] OnDoneLoading sync enabled: 0
 2026-06-30 12:32:02.441: [INFO] OnDoneLoading sync enabled: 0
 2026-06-30 12:38:46.180: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 06:39:30.032: [INFO] CurrentProfilePath: C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 06:39:30.032: [INFO] Profiles total count: 1
+2026-09-01 06:39:30.032: [INFO] Profile: name=Profile 1 path=C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T14:38:57.478Z
+2026-09-01 06:39:30.032: [INFO] LastUsedProfileDir: C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 06:39:30.032: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T14:38:57.478Z
+2026-09-01 06:39:30.032: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 06:39:30.032: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 06:39:30.032: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 06:39:30.032: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 06:40:57.882: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 06:43:22.710: [INFO] CurrentProfilePath: C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 06:43:22.710: [INFO] Profiles total count: 1
+2026-09-01 06:43:22.711: [INFO] Profile: name=Profile 1 path=C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T06:40:55.038Z
+2026-09-01 06:43:22.711: [INFO] LastUsedProfileDir: C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 06:43:22.711: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T06:40:55.038Z
+2026-09-01 06:43:22.711: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 06:43:22.711: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 06:43:22.711: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 06:43:22.711: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 06:43:26.726: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 06:45:15.415: [INFO] CurrentProfilePath: C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 06:45:15.415: [INFO] Profiles total count: 1
+2026-09-01 06:45:15.416: [INFO] Profile: name=Profile 1 path=C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T06:40:55.038Z
+2026-09-01 06:45:15.416: [INFO] LastUsedProfileDir: C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 06:45:15.416: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\custo\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T06:40:55.038Z
+2026-09-01 06:45:15.416: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 06:45:15.416: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 06:45:15.416: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 06:45:15.416: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 06:45:19.384: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
