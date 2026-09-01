@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Console_Based_Application</name>
+	<name>Tasks</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1788108509830</id>
+			<id>1788109158390</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
