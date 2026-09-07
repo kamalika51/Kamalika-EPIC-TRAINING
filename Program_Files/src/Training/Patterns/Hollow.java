@@ -10,7 +10,7 @@ public class Hollow {
 			}
 			for(int j=0;j<=i;j++) {
 				if(j==0||i==n-1||i== j) 
-				System.out.print("* ");
+				System.out.print("* "); 
 				else
                     System.out.print("  ");
 				
